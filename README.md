@@ -1,7 +1,7 @@
 # project-landing-page
-header - check
-main content ( img and quote section) - check
-sign up - wip
-footer - wip
+header - check <br>
+main content ( img and quote section) - check <br>
+sign up - wip <br>
+footer - wip <br>
 
-finished the img and quote section!
+<p>finished the img and quote section!</p>
