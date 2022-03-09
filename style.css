@@ -173,4 +173,13 @@ em {
     color: #e5e7eb;
 
 }
+/*Footer*/
+footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    color: #e5e7eb;
+    align-items: center;
+    height: 100px;
+}
 
