@@ -128,7 +128,7 @@ h2{
     font-weight: bolder;
     color: #1f2937;
 }
-/*Quote sectiom*/
+/*Quote section*/
 
 .quote {
     display: flex;
@@ -153,3 +153,26 @@ em {
     justify-content: end;
     font-weight: bold;
  }
+
+/*Section*/
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px 250px;
+    padding: 40px 100px;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 10px; 
+    line-height: 0px;
+}
+
+.signups {
+    padding: 5px 30px;
+    border-radius: 5px; 
+    border: 2px solid white;
+    background-color: #3882f6;
+    color: #e5e7eb;
+
+}
+
